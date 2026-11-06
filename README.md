@@ -5,6 +5,8 @@
 
 **Satorisama** (*Satori* = 悟り "comprehension / sudden awakening", also named after the mythical creature that reads minds) is a lightweight Windows desktop overlay that brings Yomitan-style hover lookups to untyped Japanese text anywhere on your screen.
 
+<img width="837" height="446" alt="Day 06 - 03h42m08s python" src="https://github.com/user-attachments/assets/9af8a210-76b4-4177-b5f8-97cbade81288" />
+
 ---
 
 ## Features
