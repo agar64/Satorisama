@@ -1,0 +1,7 @@
+debug_ocr/
+.venv/
+.idea/
+__pycache__/
+*.7z
+data/*.sqlite*
+data/*.zip
